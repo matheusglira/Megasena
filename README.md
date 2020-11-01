@@ -1,0 +1,2 @@
+# Megasena
+Megasena em C
